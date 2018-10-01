@@ -1,0 +1,12 @@
+{
+  "id" : "1",
+  "username": "admin",
+  "cards": [
+    {
+      "id": "1",
+      "stock_name": "",
+      "body":
+        "I don't really understand the way fetch handles bad requests (400 level status code), do research and provide example for blog post"
+    }
+  ]
+}
